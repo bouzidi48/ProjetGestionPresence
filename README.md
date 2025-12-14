@@ -23,9 +23,7 @@ Système complet de gestion de présence pour établissements d'enseignement sup
   - API REST
   - Base de données MySQL
   - Stockage Cloudinary
-
-- 🐍 **Service Python**
-  - Reconnaissance faciale
+  - Reconnaissance faciale (tensorflow)
   - Traitement d'images
 
 ---
